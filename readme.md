@@ -157,17 +157,17 @@ Performance: $\mathcal{P} = 0.88$.
 Medium obstacle density: $D = 0.10$.
 Performance: $\mathcal{P} = 0.84$.
 
-![](images/002.png)
+![](https://github.com/oelin/gem-paper/blob/main/images/002.png?raw=true)
 
 High obstacle density: $0.20$.
 Performance: $\mathcal{P} = 0.87$.
 
-![](images/003.png)
+![](https://github.com/oelin/gem-paper/blob/main/images/003.png?raw=true)
 
 Extreme obstacle density: $0.50$.
 Performance: $\mathcal{P} = 0.23$.
 
-![](images/004.png)
+![](https://github.com/oelin/gem-paper/blob/main/images/004.png?raw=true)
 
 ### 5.3. Obstacle Stochasticity
 
@@ -178,12 +178,12 @@ In the following plots, $\alpha = 0.01, A = 16, n = 16, D = 0.2$.
 Low obstacle stochasticity: $0.05$.
 Performance: $\mathcal{P} = 0.84$.
 
-![](images/005.png)
+![](https://github.com/oelin/gem-paper/blob/main/images/005.png?raw=true)
 
 High obstacle stochasticity: $0.20$.
 Performance: $\mathcal{P} = 0.81$.
 
-![](images/006.png)
+![](https://github.com/oelin/gem-paper/blob/main/images/006.png?raw=true)
 
 ### 5.4. Map Size
 
@@ -194,17 +194,17 @@ In the following plots, $\alpha = 0.01, n = A, D = 0.05, S =0$.
 Map size: $A = 16$.
 Performance: $\mathcal{P} = 0.85$.
 
-![](images/007.png)
+![](https://github.com/oelin/gem-paper/blob/main/images/007.png?raw=true)
 
 Map size: $A = 32$.
 Performance: $\mathcal{P} = 0.81$.
 
-![](images/008.png)
+![](https://github.com/oelin/gem-paper/blob/main/images/008.png?raw=true)
 
 Map size: $A = 64$.
 Performance: $\mathcal{P} = 0.79$.
 
-![](images/009.png)
+![](https://github.com/oelin/gem-paper/blob/main/images/009.png?raw=true)
 
 ### 5.5. Number of Agents
 
@@ -215,17 +215,17 @@ In the following plots, $\alpha = 0.01, A = 16, D = 0.05, S = 0$.
 Low agent count: $n = 4$.
 Performance: $\mathcal{P} = 0.81$.
 
-![](images/010.png)
+![](https://github.com/oelin/gem-paper/blob/main/images/010.png?raw=true)
 
 Medium agent count: $n = A$.
 Performance: $\mathcal{P} = 0.84$.
 
-![](images/011.png)
+![](https://github.com/oelin/gem-paper/blob/main/images/011.png?raw=true)
 
 Surplus agent count: $n = 2A$.
 Performance: $\mathcal{P} = 0.74$.
 
-![](images/012.png)
+![](https://github.com/oelin/gem-paper/blob/main/images/012.png?raw=true)
 
 ### 5.6. Summary
 
