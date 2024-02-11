@@ -152,7 +152,7 @@ In the following plots, $\alpha = 0.01, A = 16, n = 16, S = 0$.
 Low obstacle density: $D = 0.05$.
 Performance: $\mathcal{P} = 0.88$.
 
-![](images/001.png)
+![](https://github.com/oelin/gem-paper/blob/main/images/001.png?raw=true)
 
 Medium obstacle density: $D = 0.10$.
 Performance: $\mathcal{P} = 0.84$.
